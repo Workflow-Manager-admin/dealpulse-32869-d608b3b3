@@ -1,3 +1,4 @@
+// Deep-dive code analysis for DealPulse main view components and styling
 import React, { useEffect, useState } from 'react';
 import './App.css';
 
